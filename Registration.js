@@ -11,3 +11,5 @@ $(document).ready(function() {
       }
     });
   });
+
+  //line 1 is for defining a ready handler for the jQuery library
